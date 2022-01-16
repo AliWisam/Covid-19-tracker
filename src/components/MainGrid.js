@@ -8,7 +8,7 @@ import Grid from "@mui/material/Grid";
 // importing MainGrid
 import GlobalData from "./GlobalData";
 import LocalData from "./LocalData";
-import Chart from "./Chart";
+// import Chart from "./Chart";
 // import Chart from "./Chart";
 const Item = styled(Paper)(({ theme }) => ({
   ...theme.typography.body2,
